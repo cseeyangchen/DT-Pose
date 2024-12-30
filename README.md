@@ -2,7 +2,7 @@
 This repo is the official implementation for [Revisiting WiFi-based Human Pose Estimation: Toward Robust and Realistic Predictions]().
 
 ## Framework
-![image](src/framework.jpg)
+![image](src/framework.png)
 
 ## Data Preparation
 
