@@ -1,0 +1,22 @@
+init_rand_seed: 0
+# train_loader:
+#   batch_size: 256
+validation_loader:
+  batch_size: 16
+# output_folder: ./ckpt/
+
+
+dataset_root: data/person_in_wifi_3d
+seed: 42
+batch_size: 4096
+max_device_batch_size: 128
+mask_ratio: 0.80
+base_learning_rate: 1.5e-4
+weight_decay: 0.05
+warmup_epoch: 40
+total_epoch: 400
+dataset_name: person-in-wifi-3d
+experiment_name: all-person
+training_semi: False
+model_name: our_ratio80
+save_path: pretrain_weights

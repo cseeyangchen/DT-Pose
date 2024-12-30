@@ -1,0 +1,22 @@
+__pycache__/
+# data
+data/person_in_wifi_3d
+data/wipose
+!data/person_in_wifi_3d/process.py
+!data/wipose/process.py
+# feature
+features/
+# logs
+logs
+# plot
+plot
+# weights
+pose_weights
+pretrain_weights
+# others
+visualization/
+
+
+
+
+

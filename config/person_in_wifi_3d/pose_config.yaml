@@ -1,0 +1,22 @@
+init_rand_seed: 0
+train_loader:
+  batch_size: 256
+validation_loader:
+  batch_size: 16
+output_folder: ./ckpt/
+
+
+
+seed: 42
+dataset_root: data/person_in_wifi_3d
+batch_size: 32   # metafi:32, hpeli:32 
+max_device_batch_size: 256
+base_learning_rate: 0.001
+total_epoch: 200   # 200
+dataset_name: person-in-wifi-3d
+setting: one-person
+num_person: 1
+experiment_name: DT-Pose
+training_semi: False
+pretrained_model_path: pretrain_weights/person-in-wifi-3d/pretrain_our_ratio80.pt
+save_path: pose_weights

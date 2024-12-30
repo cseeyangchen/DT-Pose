@@ -1,0 +1,22 @@
+init_rand_seed: 0
+# train_loader:
+#   batch_size: 256
+validation_loader:
+  batch_size: 16
+# output_folder: ./ckpt/
+
+
+dataset_root: data/wipose
+seed: 42
+batch_size: 4096
+max_device_batch_size: 512
+mask_ratio: 0.8
+base_learning_rate: 1.5e-4
+weight_decay: 0.05
+warmup_epoch: 40
+total_epoch: 400
+dataset_name: wipose
+experiment_name: amplitude_dwt
+training_semi: False
+model_name: our_ratio80
+save_path: pretrain_weights
