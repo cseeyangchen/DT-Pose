@@ -110,5 +110,11 @@ Thanks to the original authors for their work!
 # Citation
 Please cite this work if you find it useful:.
 ```
+@article{chen2025towards,
+  title={Towards Robust and Realistic Human Pose Estimation via WiFi Signals},
+  author={Chen, Yang and Guo, Jingcai and Guo, Song and Zhou, Jingren and Tao, Dacheng},
+  journal={arXiv preprint arXiv:2501.09411},
+  year={2025}
+}
 ```
 
