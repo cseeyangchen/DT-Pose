@@ -106,7 +106,7 @@ This repo is based on [MAE](https://github.com/IcarusWizard/MAE) and [MetaFi++](
 Thanks to the original authors for their work!
 
 
-<p>
+<!--
 # Citation
 Please cite this work if you find it useful:.
 ```
@@ -117,5 +117,5 @@ Please cite this work if you find it useful:.
   year={2025}
 }
 ```
-</p>
+-->
 
