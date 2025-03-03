@@ -1,9 +1,3 @@
-<!--# DT-Pose
-This repo is the official implementation for [Towards Robust and Realistic Human Pose Estimation via WiFi Signals](https://arxiv.org/abs/2501.09411).
-
-## Framework
-![image](src/framework.png)
--->
 ## Data Preparation
 
 ### Download datasets.
@@ -104,18 +98,4 @@ python train_pose.py --config_file config/wipose/pose_config.yaml
 This repo is based on [MAE](https://github.com/IcarusWizard/MAE) and [MetaFi++](https://github.com/pridy999/metafi_pose_estimation). The data processing is borrowed from [MM-Fi](https://github.com/ybhbingo/MMFi_dataset) and [Person-in-WiFi-3D](https://github.com/aiotgroup/Person-in-WiFi-3D-repo). The baseline methods are from [HPE-Li](https://github.com/Toandinh1/ECCV24_Li-HPE) and [MetaFi++](https://github.com/pridy999/metafi_pose_estimation).
 
 Thanks to the original authors for their work!
-
-
-<!--
-# Citation
-Please cite this work if you find it useful:.
-```
-@article{chen2025towards,
-  title={Towards Robust and Realistic Human Pose Estimation via WiFi Signals},
-  author={Chen, Yang and Guo, Jingcai and Guo, Song and Zhou, Jingren and Tao, Dacheng},
-  journal={arXiv preprint arXiv:2501.09411},
-  year={2025}
-}
-```
--->
 
