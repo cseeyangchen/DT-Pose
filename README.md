@@ -1,9 +1,9 @@
-# DT-Pose
+<!--# DT-Pose
 This repo is the official implementation for [Towards Robust and Realistic Human Pose Estimation via WiFi Signals](https://arxiv.org/abs/2501.09411).
 
 ## Framework
 ![image](src/framework.png)
-
+-->
 ## Data Preparation
 
 ### Download datasets.
