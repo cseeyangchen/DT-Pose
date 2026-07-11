@@ -1,6 +1,6 @@
 # DT-Pose
 
-This repo is the official implementation for [DT-Pose: Towards Robust and Realistic Human Pose Estimation Using WiFi Signals](https://www.sciltp.com/journals/eis/articles/2606004157).
+This repo is the official implementation for [DT-Pose: Towards Robust and Realistic Human Pose Estimation Using WiFi Signals](https://www.sciltp.com/journals/eis/articles/2606004157). The paper is accepted to **Edge Intelligence and Systems**.
 
 ## Framework
 
