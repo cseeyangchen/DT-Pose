@@ -1,6 +1,6 @@
 # DT-Pose
 
-This repo is the official implementation for [Towards Robust and Realistic Human Pose Estimation via WiFi Signals](https://arxiv.org/abs/2501.09411).
+This repo is the official implementation for [DT-Pose: Towards Robust and Realistic Human Pose Estimation Using WiFi Signals](https://www.sciltp.com/journals/eis/articles/2606004157).
 
 ## Framework
 
@@ -127,10 +127,13 @@ Thanks to the original authors for their work!
 Please cite this work if you find it useful:.
 
 ```
-@article{chen2025towards,
-  title={Towards Robust and Realistic Human Pose Estimation via WiFi Signals},
-  author={Chen, Yang and Guo, Jingcai and Guo, Song and Zhou, Jingren and Tao, Dacheng},
-  journal={arXiv preprint arXiv:2501.09411},
-  year={2025}
+@article{chen2026dt,
+  title={DT-Pose: Towards Robust and Realistic Human Pose Estimation Using WiFi Signals},
+  author={Chen, Yang and Guo, Jingcai},
+  journal={Edge Intelligence and Systems},
+  volume={1},
+  number={1},
+  pages={2},
+  year={2026}
 }
 ```
